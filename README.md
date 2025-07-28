@@ -125,4 +125,5 @@ cd-4pic.png: Image showing sample recommendations
 README.md: This documentation file
 
 **OUTPUT:**
+
 ![Image](https://github.com/user-attachments/assets/25674366-f490-422a-9ac8-6c881917dcfa)
