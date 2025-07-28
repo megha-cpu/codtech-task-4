@@ -118,10 +118,11 @@ Surprise Library
 Matplotlib & Seaborn (for evaluation visualizations)
 
 **📁 Files Included**
-recommendation_system_task4.ipynb: Notebook containing the full implementation and evaluation
+cd-4.ipynb: Notebook containing the full implementation and evaluation
 
-recommendation_results.png: Image showing sample recommendations
-
-model_evaluation_metrics.png: Evaluation metrics and visualizations
+cd-4pic.png: Image showing sample recommendations
 
 README.md: This documentation file
+
+**OUTPUT:**
+![Image](https://github.com/user-attachments/assets/25674366-f490-422a-9ac8-6c881917dcfa)
